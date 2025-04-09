@@ -2,7 +2,7 @@
 Все про ИИ на русском  
 > Есть чем дополнить? Жду ваш PR
 
-- [Глоссарий](#ai-cheat-sheet-ru)
+- [Глоссарий](https://github.com/Rakhmankulov/AI-Cheat-Sheet-ru/blob/main/glossary_ai_llm_rag.md)
 - [База LLM](#База-LLM)
 - [LLM Leaderboards](#LLM-Leaderboards)
 
