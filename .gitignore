@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.py*
+DeepSeek-Coder-V2-Lite-Instruct
+venv/
+python_scripts/
