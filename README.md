@@ -27,7 +27,6 @@
 | SWE-bench (Verified) | https://labs.scale.com/leaderboard | Проверенные результаты от Scale AI, фокус на кодирование и следование инструкциям |
 | Chatbot Arena and Leaderboard | https://lmarena.ai/ | Самый популярный лидерборд от лиги плюща (Беркли)|
 | Arena для сравнения моделей | https://arena.ai/c/019c0a4c-9805-72f6-a009-f028e5b3caa4 | Слепой тест 2 моделей, после выбота предпочтительного ответа сайт показывает какие модели отвечали |
-
 | HuggingFace | https://huggingface.co/docs/leaderboards/en/leaderboards/finding_page | Математика/Производительность/Код/Безопасность |
 | LLM Leaderboard от Vellum AI | https://www.vellum.ai/llm-leaderboard?utm_source=chatgpt.com | Красивая инфографика для домохозяек |
 | Artificial Analysis LLM Performance Leaderboard | https://artificialanalysis.ai/leaderboards/models?utm_source=chatgpt.com | Сравнивают качество, цену, производительность и скорость |
